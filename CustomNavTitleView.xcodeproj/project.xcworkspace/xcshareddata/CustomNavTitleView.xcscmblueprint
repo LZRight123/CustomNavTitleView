@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "767e1942-28bc-4ad2-8ad2-24185d108248++7045",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "767e1942-28bc-4ad2-8ad2-24185d108248++7045" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "767e1942-28bc-4ad2-8ad2-24185d108248++7045" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "B5D0C7AA-51DF-48ED-AE2D-E3D060BDB3F8",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "767e1942-28bc-4ad2-8ad2-24185d108248++7045" : "CustomNavTitleView\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "CustomNavTitleView",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "CustomNavTitleView.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/code.taobao.org\/svn\/LvZhou",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "767e1942-28bc-4ad2-8ad2-24185d108248++7045"
+    }
+  ]
+}
